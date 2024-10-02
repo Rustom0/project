@@ -49,7 +49,7 @@ I would like to continue develop in frontend area so i can do most of the thing 
 ## Author
 
 - Website - [Rustom Dewan]
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Rustom0](https://www.frontendmentor.io/profile/Rustom0)
 
 
 ## Acknowledgments
