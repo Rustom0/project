@@ -1,0 +1,90 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5e7db;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: white;
+    border-radius: 8px;
+    font-family:Arial, Helvetica, sans-serif
+}
+h2 {
+    color: #b58969;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1rem auto;
+    border-radius: 8px;
+}
+h1{
+    color: black;
+    font-size: 3rem;
+}
+.box1{
+    background-color: rgba(233, 229, 229, 0.329);
+    height: 10rem;
+    border-radius: 8px;
+    
+}
+.box1 h2{
+padding: 1.2rem 0rem 1rem 1.5rem;
+margin-bottom: 0px;
+color: rgba(24, 23, 23, 0.767);
+}
+.box1 li, .box2 li, .box3 li{
+    padding-left: 15px;
+}
+.box1 ul{
+    margin-left: 1rem;
+    margin-bottom: 1.2rem;
+    margin-top: 0rem;
+
+}
+span{
+    font-weight: bold;
+    color: rgba(24, 23, 23, 0.767);;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
+
+table {
+    width: 100%;
+    margin-top: 2rem;
+    border-collapse: collapse;
+}
+
+th, td {
+    border-bottom: 1px solid #ccc;
+    padding: 0.5rem;
+    text-align: left;
+}
+
+th {
+    background-color: #b58969;
+    color: white;
+}
+
+@media (max-width: 600px) {
+    .container {
+        padding: 1rem;
+    }
+
+    table {
+        font-size: 0.9rem;
+    }
+}
+
+.attribution{
+    margin: 20px auto;
+    text-align: center;
+}
